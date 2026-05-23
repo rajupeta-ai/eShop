@@ -491,3 +491,8 @@ $RECYCLE.BIN/
 /playwright/.auth/
 /user.json
 .azure
+
+# Claude CLI artifacts (must never be committed)
+.claude/
+.claudeignore
+CLAUDE.md
